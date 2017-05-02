@@ -1,7 +1,0 @@
-{
-  "name": "ar",
-  "version": "0.0.1",
-  "dependencies": {
-    "DefinitelyTyped": "latest"
-  }
-}
